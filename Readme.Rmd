@@ -1,0 +1,7 @@
+---
+output:
+  github_document:
+    html_preview: false
+---
+
+# geocoder <img src="man/figures/logo.png" align="right" />
